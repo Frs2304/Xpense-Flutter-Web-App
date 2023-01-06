@@ -1,4 +1,4 @@
-# xpense
+# Xpense
 
 A new Flutter project.
 
