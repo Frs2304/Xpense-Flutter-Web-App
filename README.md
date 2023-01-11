@@ -1,4 +1,4 @@
-# xpense_flutter_web
+# Xpense Web App
 
 A new Flutter project.
 
