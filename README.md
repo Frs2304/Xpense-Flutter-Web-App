@@ -1,3 +1,3 @@
-# Xpense Web App
-
-Flutter UI + Simple Animations
+ <p align="center">
+    <b>Xpense Web app </b> with Flutter that uses Firebase
+    <br>
