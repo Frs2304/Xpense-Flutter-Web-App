@@ -1,6 +1,6 @@
  # Xpense Web App
 
-Xpense Web app with Flutter that uses Firebase 
+Xpense Web app with Flutter that uses Firebase.
 
 
 ## Appendix
