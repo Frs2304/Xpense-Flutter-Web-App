@@ -3,7 +3,7 @@
 Xpense Web app made with Flutter.
 
 
-## Appendix
+## Description
 
 Xpense is a Flutter made web app which is useful to track your daily expenses. 
 
