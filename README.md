@@ -1,24 +1,15 @@
- # Xpense Web App
+# Xpense
 
-Xpense Web app made with Flutter.
+Xpense is a web application made with Flutter that helps you track your daily expenses. With Xpense, you can easily add new expenses, categorize them, and see how much you've spent in each category over time.
 
+Screenshot of Xpense
 
-## Description
+Getting started
 
-Xpense is a Flutter made web app which is useful to track your daily expenses. 
+To use Xpense, you need to have Flutter installed on your computer. Once you have Flutter installed, follow these steps:
 
+## Clone this repository:
+`git clone https://github.com/your-username/xpense.git`
 
-## Authors
-
-- [@Frs2304](https://www.github.com/Frs2304)
-
-## Features
-
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## Tech Stack
-
-**Client:** Dart,Flutter.
+## Navigate to the project directory:
+`cd xpense`
