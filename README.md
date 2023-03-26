@@ -8,8 +8,16 @@ Getting started
 
 To use Xpense, you need to have Flutter installed on your computer. Once you have Flutter installed, follow these steps:
 
-## Clone this repository:
+## 1.Clone this repository:
 `git clone https://github.com/your-username/xpense.git`
 
-## Navigate to the project directory:
+## 2.Navigate to the project directory:
 `cd xpense`
+
+## 3.Install the required dependencies:
+`flutter pub get`
+
+## 4.Run the app:
+`flutter run -d chrome`
+
+The app should now be running on http://localhost:3000.
